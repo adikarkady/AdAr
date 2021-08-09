@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 just a new file
 another line
+=======
+just a new file
+>>>>>>> release
